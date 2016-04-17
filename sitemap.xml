@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.chengli.io/</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/li2016empirical.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/li2016empirical_slides.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/li2014correction.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/qiu2013extension.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/xie2013distributive.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/qiu2013decomposable.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/qiu2013nonlinear.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/xie2012distributivity.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/liu2011fully.pdf</loc>
+  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
