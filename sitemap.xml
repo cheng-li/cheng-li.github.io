@@ -8,37 +8,47 @@
 
 <url>
   <loc>http://www.chengli.io/</loc>
-  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.chengli.io/publications/li2016conditional.html</loc>
-  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://www.chengli.io/publications/li2016empirical.pdf</loc>
-  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.chengli.io/publications/li2016empirical_slides.pdf</loc>
-  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
+  <loc>http://www.chengli.io/publications/li2016empirical.html</loc>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.chengli.io/tutorials/gradient_boosting.pdf</loc>
-  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.chengli.io/publications/li2016conditional.pdf</loc>
-  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.chengli.io/publications/li2016conditional_supplementary.pdf</loc>
-  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/li2016conditional_poster.pdf</loc>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/li2016empirical.pdf</loc>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/li2016empirical_slides.pdf</loc>
+  <lastmod>2016-05-14T16:45:38+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 </urlset>
