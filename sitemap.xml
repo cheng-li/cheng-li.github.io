@@ -8,62 +8,37 @@
 
 <url>
   <loc>http://www.chengli.io/</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.chengli.io/publications/li2016conditional.html</loc>
+  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.chengli.io/publications/li2016empirical.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.chengli.io/publications/li2016empirical_slides.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.chengli.io/publications/li2014correction.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <loc>http://www.chengli.io/tutorials/gradient_boosting.pdf</loc>
+  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.chengli.io/publications/qiu2013extension.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <loc>http://www.chengli.io/publications/li2016conditional.pdf</loc>
+  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.chengli.io/publications/xie2013distributive.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
+  <loc>http://www.chengli.io/publications/li2016conditional_supplementary.pdf</loc>
+  <lastmod>2016-05-14T14:09:45+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.chengli.io/publications/qiu2013decomposable.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.chengli.io/publications/qiu2013nonlinear.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.chengli.io/publications/xie2012distributivity.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.chengli.io/publications/liu2011fully.pdf</loc>
-  <lastmod>2016-04-17T17:44:23+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
 </url>
 </urlset>
