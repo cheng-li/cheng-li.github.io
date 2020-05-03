@@ -6,18 +6,40 @@
       content="XmgClnbEKziAyxnX-L7KcLkvKpPrGYHE2e0AWyoi2oE">
     <!-- Metadata -->
     <!-- Google Scholar Meta Data -->
-    <meta name="citation_title" content="Conditional Bernoulli Mixtures
-      for Multi-label Classification">
-    <meta name="citation_author" content="Li, Cheng">
-    <meta name="citation_author" content="Wang, Bingyu">
-    <meta name="citation_author" content="Pavlu, Virgil">
-    <meta name="citation_author" content="Aslam, Javed A.">
-    <meta name="citation_publication_date" content="2016">
-    <meta name="citation_conference_title" content="Proceedings of The
-      33rd International Conference on Machine Learning">
+    <meta name="citation_title" content="Learning to Calibrate and
+      Rerank Multi-label Predictions">
+    <meta name="citation_publisher" content="Springer, Cham">
+    <meta name="citation_doi" content="10.1007/978-3-030-46133-1_14">
+    <meta name="citation_language" content="en">
+    <meta name="citation_firstpage" content="220">
+    <meta name="citation_lastpage" content="236">
+    <meta name="citation_author" content="Cheng Li">
+    <meta name="citation_author_institution" content="Northeastern
+      University">
+    <meta name="citation_author_email" content="chengli@ccs.neu.edu">
+    <meta name="citation_author" content="Virgil Pavlu">
+    <meta name="citation_author_institution" content="Northeastern
+      University">
+    <meta name="citation_author" content="Javed Aslam">
+    <meta name="citation_author_institution" content="Northeastern
+      University">
+    <meta name="citation_author" content="Bingyu Wang">
+    <meta name="citation_author_institution" content="Northeastern
+      University">
+    <meta name="citation_author" content="Kechen Qin">
+    <meta name="citation_author_institution" content="Northeastern
+      University">
+    <meta name="citation_inbook_title" content="Machine Learning and
+      Knowledge Discovery in Databases">
+    <meta name="citation_publication_date" content="2019/09/16">
+    <meta name="citation_conference_series_id" content="springer/ecml">
+    <meta name="citation_conference_title" content="Joint European
+      Conference on Machine Learning and Knowledge Discovery in
+      Databases">
+    <meta name="citation_conference_abbrev" content="ECML PKDD">
     <meta name="citation_pdf_url"
-      content="http://www.chengli.io/publications/li2016conditional.pdf">
-    <title>Conditional Bernoulli Mixtures for Multi-label Classification</title>
+      content="http://www.chengli.io/publications/li2019learning.pdf">
+    <title>Learning to Calibrate and Rerank Multi-label Predictions</title>
   </head>
   <body>
     <h1>Learning to Calibrate and Rerank Multi-label Predictions<br>
@@ -36,28 +58,38 @@
         href="li2019learning_supplementary.pdf"><b>Supplementary
           Material</b></a>] [<a href="li2019learning_slides.pdf"><b>Slides</b></a>]
       [<a href="li2019learning_poster.pdf"><b>Poster</b></a>] [<a
-        href="https://github.com/cheng-li/pyramid"><b>Code</b></a>] [<a
-        href="li2016conditional.bib"><b>BibTex</b></a>]<br>
+        href="https://github.com/cheng-li/pyramid"><b>Code</b></a>]<br>
+    </p>
+    <p>An extended version of this work is presented in Chapter 4 of <a
+href="Reduction_Methods_for_Multi-Label_Classification_Cheng_Li.pdf">my
+        Phd thesis</a>.<br>
     </p>
     <h2>Abstract</h2>
-    <p>Multi-label classification is an important machine learning task
-      wherein one assigns a subset of candidate labels to an object. In
-      this paper, we propose a new multi-label classification method
-      based on Conditional Bernoulli Mixtures. Our proposed method has
-      several attractive properties: it captures label dependencies; it
-      reduces the multi-label problem to several standard binary and
-      multi-class problems; it subsumes the classic independent binary
-      prediction and power-set subset prediction methods as special
-      cases; and it exhibits accuracy and/or computational complexity
-      advantages over existing approaches. We demonstrate two
-      implementations of our method using logistic regressions and
-      gradient boosted trees, together with a simple training procedure
-      based on Expectation Maximization. We further derive an efficient
-      prediction procedure based on dynamic programming, thus avoiding
-      the cost of examining an exponential number of potential label
-      subsets. Experimental results show the effectiveness of the
-      proposed method against competitive alternatives on benchmark
-      datasets.<br>
+    <p>A multi-label classifier assigns a set of labels to each data
+      object. A natural requirement in many end-use applications is that
+      the classifier also provides a well-calibrated confidence
+      (probability) to indicate the likelihood of the predicted set
+      being correct; for example, an application may automate
+      high-confidence predictions while manually verifying
+      low-confidence predictions. The simplest multi-label classifier,
+      called Binary Relevance (BR), applies one binary classifier to
+      each label independently and takes the product of the individual
+      label probabilities as the overall label-set probability
+      (confidence). Despite its many known drawbacks, such as generating
+      suboptimal predictions and poorly calibrated confidence scores, BR
+      is widely used in practice due to its speed and simplicity. We
+      seek in this work to improve both BR’s confidence estimation and
+      prediction through a post calibration and reranking procedure. We
+      take the BR predicted set of labels and its product score as
+      features, extract more features from the prediction itself to
+      capture label constraints, and apply Gradient Boosted Trees (GB)
+      as a calibrator to map these features into a calibrated confidence
+      score. GB not only produces well-calibrated scores (aligned with
+      accuracy and sharp), but also models label interactions,
+      correcting a critical flaw in BR. We further show that reranking
+      label sets by the new calibrated confidence makes accurate set
+      predictions on par with state-of-the-art multi-label
+      classifiers—yet calibrated, simpler, and faster.<br>
     </p>
     <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
     <title></title>
